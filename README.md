@@ -17,13 +17,13 @@ Track resource costs, apply tags for better visibility, and set up budget alerts
 
 ## 📘 Summary
 
-This project focuses on managing and visualizing Azure resource costs by using **tags**, **budgets**, and the **Cost Analysis dashboard**. You'll create tagged resources, track spending by tags, and set up a budget alert for proactive cost management.
+This project focuses on managing and visualizing Azure resource costs by using **tags**, **budgets**, and the **Cost Analysis dashboard**. I'll create tagged resources, track spending by tags, and set up a budget alert for proactive cost management.
 
 ---
 
 ## 📌 Scenario
 
-You are running multiple projects in Azure and need to track usage costs by environment and project. Tags provide the ability to filter and group costs effectively, and budget alerts help you avoid unexpected charges.
+Running multiple projects in Azure and need to track usage costs by environment and project. Tags provide the ability to filter and group costs effectively, and budget alerts help to avoid unexpected charges.
 
 ---
 
@@ -33,7 +33,7 @@ You are running multiple projects in Azure and need to track usage costs by envi
 
 1. Go to **Azure Portal** → **Resource groups** → **Create**  
    - Name: `az900-project2-rg`  
-   - Region: `East US`  
+   - Region: `South UK`  
    - Click **Review + create** → **Create**
 
 2. Go to **Storage accounts** → **Create**
