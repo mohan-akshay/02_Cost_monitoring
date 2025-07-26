@@ -33,7 +33,7 @@ Running multiple projects in Azure and need to track usage costs by environment 
 
 1. Go to **Azure Portal** → **Resource groups** → **Create**  
    - Name: `az900-project2-rg`  
-   - Region: `South UK`  
+   - Region: `UK South`  
    - Click **Review + create** → **Create**
 
 2. Go to **Storage accounts** → **Create**
