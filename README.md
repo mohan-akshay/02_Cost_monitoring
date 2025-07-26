@@ -66,7 +66,7 @@ Running multiple projects in Azure and need to track usage costs by environment 
 1. Go to **Cost Management + Billing** → **Budgets** → **+ Add**
 2. Fill in the form:
    - **Scope**: Your subscription
-   - **Name**: `AZ900-Zero-Spend-Budget`
+   - **Name**: `az900_project1`
    - **Reset period**: Monthly
    - **Budget amount**: `$0.01` *(minimum value)*
    - **Alert conditions**: Actual > 0
